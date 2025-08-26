@@ -1,0 +1,232 @@
+Paper,Conference,Year,Keyword
+Understanding Help-Seeking and Help-Giving on Social Media for Image-Based Sexual Abuse,USENIX,2024,airTag
+Time for Change: How Clocks Break UWB Secure Ranging,USENIX,2023,airTag
+MAGIC: Detecting Advanced Persistent Threats via Masked Graph Representation Learning,USENIX,2024,airTag
+Security and Privacy Software Creators' Perspectives on Unintended Consequences ,USENIX,2024,airTag
+"""It's the Equivalent of Feeling Like You're in Jail”: Lessons from Firsthand and Secondhand Accounts of IoT-Enabled Intimate Partner Abuse",USENIX,2023,airTag
+Abuse Vectors: A Framework for Conceptualizing IoT-Enabled Interpersonal Abuse,USENIX,2023,airTag
+Sneaky Spy Devices and Defective Detectors: The Ecosystem of Intimate Partner Surveillance with Covert Devices,USENIX,2023,airTag
+Abuse-Resistant Location Tracking: Balancing Privacy and Safety in the Offline Finding Ecosystem,USENIX,2024,airTag
+Security and Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System,USENIX,2024,airTag
+AirTAg: Towards Automated Attack Investigation by Unsupervised Learning with Log Texts,USENIX,2023,airTag
+Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging,USENIX,2022,airTag
+The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence,USENIX,2021,FindMy
+"""I feel physically safe but not politically safe"": Understanding the Digital Threats and Safety Practices of OnlyFans Creators",USENIX,2024,FindMy
+"Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication",USENIX,2021,FindMy
+Networks of Care: Tech Abuse Advocates' Digital Security Practices,USENIX,2022,FindMy
+"""I really just leaned on my community for support"": Barriers, Challenges, and Coping Mechanisms Used by Survivors of Technology-Facilitated Abuse to Seek Social Support",USENIX,2024,FindMy
+Chaperone: Real-time Locking and Loss Prevention for Smartphones,USENIX,2020,FindMy
+The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums,USENIX,2024,FindMy
+Differentially-Private Control-Flow Node Coverage for Software Usage Analysis,USENIX,2020,FindMy
+Clinical Computer Security for Victims of Intimate Partner Violence,USENIX,2019,FindMy
+"""It's stressful having all these phones"": Investigating Sex Workers' Safety Goals, Risks, and Practices Online",USENIX,2021,FindMy
+Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets,USENIX,2020,FindMy
+Towards HTTPS Everywhere on Android: We Are Not There Yet,USENIX,2020,Stalkerware
+Watch your Watch: Inferring Personality Traits from Wearable Activity Trackers,USENIX,2023,tracker devices
+On a Collision Course: Unveiling Wireless Attacks to the Aircraft Traffic Collision Avoidance System (TCAS),USENIX,2024,finding device
+Khaleesi: Breaker of Advertising and Tracking Request Chains,USENIX,2022,location tracker
+Humans vs. Machines in Malware Classification,USENIX,2023,tracking device
+The CrossPath Attack: Disrupting the SDN Control Channel via Shared Links,USENIX,2019,tracking device
+Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations,USENIX,2024,tracking device
+Device Tracking via Linux’s New TCP Source Port Selection Algorithm ,USENIX,2023,tracking devices
+Kalεido: Real-Time Privacy Control for Eye-Tracking Systems ,USENIX,2024,tracking devices
+"Analysis of Privacy Protections in Fitness Tracking Social Networks -or- You can run, but can you hide?",USENIX,2018,tracking devices
+"Unique Identification of 50,000+ Virtual Reality Users from Head & Hand Motion Data",USENIX,2024,tracking devices
+PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop ,USENIX,2021,tracking devices
+"Abandon All Hope Ye Who Enter Here: A Dynamic, Longitudinal Investigation of Android's Data Safety Section ",USENIX,2024,tracking devices
+"Electronic Monitoring Smartphone Apps: An Analysis of Risks from Technical, Human-Centered, and Legal Perspectives ",USENIX,2022,tracking devices
+Navigating Traumatic Stress Reactions During Computer Security Interventions ,USENIX,2024,tracking devices
+RE-Mind: a First Look Inside the Mind of a Reverse Engineer,USENIX,2022,tracking devices
+ZØ: An Optimizing Distributing Zero-Knowledge Compiler,USENIX,2014,tracking devices
+"Account Security Interfaces: Important, Unintuitive, and Untrustworthy ",USENIX,2023,stalkerware
+One Size Does not Fit All: Quantifying the Risk of Malicious App Encounters for Different Android User Profiles ,USENIX,2023,stalkerware
+"""How Do You Not Lose Friends?"": Synthesizing a Design Space of Social Controls for Securing Shared Digital Resources Via Participatory Design Jams ",USENIX,2022,stalkerware
+SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript ,USENIX,2024,stalkerware
+"A Billion Open Interfaces for Eve and Mallory: MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link ",USENIX,2019,BLE advertisement
+"Disrupting Continuity of Apple's Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi ",USENIX,2021,BLE advertisement
+Protecting Privacy of BLE Device Users ,USENIX,2016,BLE advertisement
+Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks ,USENIX,2020,BLE advertisement
+PURL: Safe and Effective Sanitization of Link Decoration ,USENIX,2024,tracking tag
+Abusability of Automation Apps in Intimate Partner Violence,USENIX,2025,location tracker
+AirTag-Facilitated Stalking Protection: Evaluating Unwanted Tracking Notifications and Tracker Locating Features ,USENIX,2025,airTag
+Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges ,USENIX,2025,airTag
+A Thorough Security Analysis of BLE Proximity Tracking Protocols ,USENIX,2025,bluetooth tracker
+The Battery Insertion Attack: Is Periodic Pseudo-randomization Sufficient for Beacon Privacy?,PETS,2025,airTag
+"Okay Google, Where’s My Tracker? Security, Privacy, and Performance Evaluation of Google's Find My Device Network",PETS,2025,airTag
+Please Unstalk Me: Understanding Stalking with Bluetooth Trackers and Democratizing Anti-Stalking Protection,PETS,2024,airTag
+Blind My - An Improved Cryptographic Protocol to Prevent Stalking in Apple's Find My Network,PETS,2023,airTag
+Track You: A Deep Dive into Safety Alerts for Apple AirTags,PETS,2023,airTag
+LANShield: Analysing and Protecting Local Network Access on Mobile Devices,PETS,2015,find my
+``Erasing the Echo'': The Usability of Data Deletion in Smart Personal Assistants,PETS,2025,find my
+A Global Survey of Android Dual-Use Applications Used in Intimate Partner Surveillance,PETS,2022,find my
+My Data or Our Data? A Comparative Study of Collaborative Family Apps and Parents’ Experiences with Apple’s Family Sharing,PETS,2025,find my
+Tailoring Digital Privacy Education Interventions for Older Adults: A Comparative Study on Modality Preferences and Effectiveness,PETS,2024,find my
+Analyzing the Monetization Ecosystem of Stalkerware,PETS,2022,Stalkerware
+No Privacy Among Spies: Assessing the Functionality and Insecurity of Consumer Android Spyware Apps,PETS,2023,Stalkerware
+Tracking Anonymized Bluetooth Devices,PETS,2019,bluetooth tracking
+Unmasking the Shadows: A Cross-Country Study of Online Tracking in Illegal Movie Streaming Services,PETS,2025,location tracker
+Pets without PETs: on pet owners’ under-estimation of privacy concerns in pet wearables,PETS,2020,location tracker
+Privadome: Delivery Drones and Citizen Privacy,PETS,2024,tracking device
+4 Years of EU Cookie Law: Results and Lessons Learned,PETS,2023,tracking device
+Privacy Challenges in the Quantified Self Movement – An EU Perspective,PETS,2016,tracking device
+Look Before You Authorize: Using Eye-Tracking To Enforce User Attention Towards Application Permissions,PETS,2017,tracking device
+Are You Sure You Want to Contact Us? Quantifying the Leakage of PII via Website Contact Forms,PETS,2016,tracking device
+Cross-Device Tracking: Measurement and Disclosures,PETS,2017,tracking device
+Crowdsourcing for Context: Regarding Privacy in Beacon Encounters via Contextual Integrity,PETS,2016,BLE advertisement
+Discontinued Privacy: Personal Data Leaks in Apple Bluetooth-Low-Energy Continuity Protocols,PETS,2022,BLE advertisement
+DP-ACT: Decentralized Privacy-Preserving Asymmetric Digital Contact Tracing,PETS,2024,BLE advertisement
+I never signed up for this! Privacy implications of email tracking,PETS,2018,Tracking tag
+Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships,SOUPS,2022,airTag
+How Risky Are Real Users' IFTTT Applets?,SOUPS,2020,find my
+How Entertainment Journalists Manage Online Hate and Harassment,SOUPS,2024,find my
+"“WTH..!?!” Experiences, Reactions, and Expectations Related to Online Privacy Panic Situations",SOUPS,2015,find my
+Comparing User Perceptions of Anti-Stalkerware Apps with the Technical Reality,SOUPS,2022,find my
+Detecting iPhone Security Compromise in Simulated Stalking Scenarios: Strategies and Obstacles,SOUPS,2022,find my
+A Usability Study of Five Two-Factor Authentication Methods,SOUPS,2019,find my
+It’s a Hard Lock Life: A Field Study of Smartphone (Un)Locking Behavior and Risk Perception,SOUPS,2014,find my
+Realizing Choice: Online Safeguards for Couples Adapting to Cognitive Challenges,SOUPS,2020,stalkerware
+The importance of visibility for folk theories of sensor data,SOUPS,2017,location track
+"Intuitions, Analytics, and Killing Ants: Inference Literacy of High School-educated Adults in the US",SOUPS,2016,tracking device
+Ethics Emerging: the Story of Privacy and Security Perceptions in Virtual Reality,SOUPS,2018,tracking devices
+A Design Space for Effective Privacy Notices,SOUPS,2015,tracking devices
+“There is nothing that I need to keep secret”: Sharing Practices and Concerns of Wearable Fitness Data,SOUPS,2019,tracking devices
+Normative and Non-Social Beliefs about Sensor Data: Implications for Collective Privacy Management,SOUPS,2022,tracker devices
+Protecting HRP UWB Ranging System Against Distance Reduction Attacks ,CCS,2023,Airtag
+Who Tracks the Trackers?: Circumventing Apple's Anti-Tracking Alerts in the Find My Network,WPES,2021,Airtag
+UWBAD: Towards Effective and Imperceptible Jamming Attacks Against UWB Ranging Systems with COTS Chips,CCS,2024,Airtag
+Toward a secure crowdsourced location tracking system,WiSec,2021,Pebblebee
+AirGuard - Protecting Android Users from Stalking Attacks by Apple Find My Devices,WiSec,2022,Airtag
+Poster: BLE-Shield: A Hybrid Framework for Threat Identification in Bluetooth Low Energy (BLE) Networks ,WiSec,2025,Airtag
+OpenHaystack Mobile - Tracking Custom Find My Accessories on Smartphones,WiSec,2022,Airtag
+UWB-Auth: A UWB-based Two Factor Authentication Platform,WiSec,2024,Airtag
+Evil Never Sleeps: When Wireless Malware Stays On after Turning Off iPhones,WiSec,2023,Airtag
+BTLEmap: Nmap for bluetooth low energy,WiSec,2020,Airtag
+FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware,CCS,2020,chipolo
+Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT,CCS,2022,chipolo
+OpenHaystack: a framework for tracking personal bluetooth devices via Apple's massive find my network,WiSec,2021,offline finding
+ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space,WiSec,2025,smarttag
+ColoT: a consent and information assistant for the IoT,WiSec,2020,bluetooth tracking
+My Magnetometer Is Telling You Where I've Been?,WiSec,2018,bluetooth tracking
+When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure,CCS,2022,bluetooth tracking
+BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses,CCS,2023,bluetooth tracking
+Fuzzy Message Detection,CCS,2021,find my
+Lost and found: stopping bluetooth finders from leaking private information,WiSec,2020,find my
+"""I Had Sort of a Sense that I Was Always Being Watched...Since I Was"": Examining Interpersonal Discomfort From Continuous Location-Sharing Applications",CCS,2024,find my
+SPECPATCH: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition,CCS,2022,find my
+Mayhem in the Push Clouds: Understanding and Mitigating Security Hazards in Mobile Push-Messaging Services,CCS,2014,find my
+iLock: Immediate and Automatic Locking of Mobile Devices against Data Theft,CCS,2016,find my
+Automatic Fingerprinting of Vulnerable BLE IoT Devices with Static UUIDs from Mobile Apps ,CCS,2019,BLE advertisement
+Proximity Tracing in an Ecosystem of Surveillance Capitalism,WPES,2020,BLE advertisement
+Detecting smartphone state changes through a Bluetooth based timing attack ,WiSec,2018,BLE advertisement
+MagicPairing: Apple's take on securing bluetooth peripherals,WiSec,2020,BLE advertisement
+iRyP: a purely edge-based visual privacy-respecting system for mobile cameras,WiSec,2020,BLE advertisement
+"Peek-a-boo: i see your smart home activities, even encrypted!",WiSec,2020,BLE advertisement
+Analog Physical-Layer Relay Attacks with Application to Bluetooth and Phase-Based Ranging,WiSec,2022,BLE advertisement
+Happy MitM: fun and toys in every bluetooth device,WiSec,2021,BLE advertisement
+E-Spoofer: Attacking and Defending Xiaomi Electric Scooter Ecosystem ,WiSec,2023,BLE advertisement
+Himiko: A human interface for monitoring and inferring knowledge on bluetooth-low-energy objects ,WiSec,2019,BLE advertisement
+Using bluetooth low energy spoofing to dispute device details,WiSec,2019,BLE advertisement
+Extracting physical-layer BLE advertisement information from Broadcom and Cypress chips,WiSec,2020,BLE advertisement
+Hacksaw: Hardware-Centric Kernel Debloating via Device Inventory and Dependency Analysis,CCS,2023,finder device
+New vulnerabilities in 4G and 5G cellular access network protocols: exposing device capabilities,WiSec,2019,tracking device
+Fingerprinting Wi-Fi Devices Using Software Defined Radios,WiSec,2016,tracking device
+Using Reflexive Eye Movements for Fast Challenge-Response Authentication,CCS,2016,tracking device
+CAPSID: A Private Session ID System for Small UAVs,CCS,2024,tracking device
+Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization,CCS,2021,tracking device
+The Web's Sixth Sense: A Study of Scripts Accessing Smartphone Sensors,CCS,2018,tracking device
+Do You Hear What I Hear?: Fingerprinting Smart Devices Through Embedded Acoustic Components,CCS,2014,tracking device
+GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices,CCS,2024,tracking device
+GPSBuster: Busting out Hidden GPS Trackers via MSoC Electromagnetic Radiations,CCS,2024,tracking device
+A Post-Quantum Secure Subscription Concealed Identifier for 6G,WiSec,2022,tracking device
+Identifying device type from cross channel probe request behavior,WiSec,2021,tracking device
+Defeating MAC Address Randomization Through Timing Attacks,WiSec,2016,tracking device
+SemperFi: a spoofer eliminating standalone GPS receiver,WiSec,2020,tracker device
+IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis,CCS,2023,tracker device
+Location-independent GNSS Relay Attacks: A Lazy Attacker's Guide to Bypassing Navigation Message Authentication,WiSec,2023,tracker device
+Fighting the Fog: Evaluating the Clarity of Privacy Disclosures in the Age of CCPA,WPES,2021,tracking tags
+Coresident evil: noisy vibrational pairing in the face of co-located acoustic eavesdropping,WiSec,2017,tracking tags
+Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs,IEEE S&P ,2023,airtag
+Extended Diffie-Hellman Encryption for Secure and Efficient Real-Time Beacon Notifications,IEEE S&P ,2025,smartTag
+"SoK: Hate, Harassment, and the Changing Landscape of Online Abuse",IEEE S&P ,2021,stalkerware
+SoK: Safer Digital-Safety Research Involving At-Risk Users,IEEE S&P ,2024,stalkerware
+Blue Is the New Black (Market): Privacy Leaks and Re-Victimization from Police-Auctioned Cellphones,IEEE S&P ,2023,stalkerware
+SoK: Self-Generated Nudes over Private Chats: How can Technology Contribute to a Safer Sexting?,IEEE S&P ,2025,stalkerware
+Securing Augmented Reality Output,IEEE S&P ,2017,safety alert
+SoK: A Framework for Unifying At-Risk User Research,IEEE S&P ,2022,anti-stalking
+“You Have to Ignore the Dangers”: User Perceptions of the Security and Privacy Benefits of WhatsApp Mods,IEEE S&P ,2025,anti-stalking
+Digital Security — A Question of Perspective A Large-Scale Telephone Survey with Four At-Risk User Groups,IEEE S&P ,2024,anti-stalking
+"Security and Privacy Experiences of First- and Second-Generation Pakistani Immigrants to the US: Perceptions, Practices, Challenges, and Parent-Child Dynamics",IEEE S&P ,2025,anti-stalking
+No Easy Way Out: the Effectiveness of Deplatforming an Extremist Forum to Suppress Hate and Harassment ,IEEE S&P ,2024,anti-stalking
+The Spyware Used in Intimate Partner Violence,IEEE S&P ,2018,anti-stalking
+The Many Kinds of Creepware Used for Interpersonal Attacks,IEEE S&P ,2020,anti-stalking
+Linking Bluetooth LE & Classic and Implications for Privacy-Preserving Bluetooth-Based Protocols,IEEE S&P ,2021,find my
+Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems,IEEE S&P ,2019,find my
+A Tale of Two Studies: The Best and Worst of YubiKey Usability,IEEE S&P ,2018,find my
+SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth,IEEE S&P ,2024,find my
+No Privacy in the Electronics Repair Industry,IEEE S&P ,2023,find my
+SoK: The Dual Nature of Technology in Sexual Abuse,IEEE S&P ,2022,find my
+Surveilling the Masses with Wi-Fi-Based Positioning Systems,IEEE S&P ,2023,find my
+Nebula: A Privacy-First Platform for Data Backhaul,IEEE S&P ,2024,find my
+"Transparency in Usable Privacy and Security Research: Scholars' Perspectives, Practices, and Recommendations",IEEE S&P ,2025,find my
+MANTIS: Detection of Zero-Day Malicious Domains Leveraging Low Reputed Hosting Infrastructure,IEEE S&P ,2025,find my
+Blue’s Clues: Practical Discovery of Non-Discoverable Bluetooth Devices,IEEE S&P ,2023,bluetooth tracking
+Even Black Cats Cannot Stay Hidden in the Dark: Full-band De-anonymization of Bluetooth Classic Devices,IEEE S&P ,2020,bluetooth tracking
+Attacks on Wireless Coexistence: Exploiting Cross-Technology Performance Features for Inter-Chip Privilege Escalation,IEEE S&P ,2022,BLE advertisement
+Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices,IEEE S&P ,2022,BLE advertisement
+Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices,IEEE S&P ,2024,BLE advertisement
+Surveilling the Masses with Wi-Fi-Based Positioning Systems,IEEE S&P ,2024,crowd sourcing
+"Cross Layer Attacks and How to Use Them (for DNS Cache Poisoning, Device Tracking and More)",IEEE S&P ,2021,tracking devices
+SoK: Social Cybersecurity,IEEE S&P ,2022,tracking devices
+Flaw Label: Exploiting IPv6 Flow Label ,IEEE S&P ,2020,tracking devices
+On Enforcing the Digital Immunity of a Large Humanitarian Organization,IEEE S&P ,2018,tracking devices
+Security of GPS/INS Based On-road Location Tracking Systems,IEEE S&P ,2019,tracking devices
+Low-Cost Privilege Separation with Compile Time Compartmentalization for Embedded Systems,IEEE S&P ,2023,tracking devices
+You Get Where You're Looking for: The Impact of Information Sources on Code Security,IEEE S&P ,2016,location tracker
+Sending Out an SMS: Characterizing the Security of the SMS Ecosystem with Public Gateways ,IEEE S&P ,2016,Find My
+The Peril of Fragmentation: Security Hazards in Android Device Driver Customizations,IEEE S&P ,2021,tracking devices
+Access Your Tesla without Your Awareness: Compromising Keyless Entry System of Model 3.,NDSS,2023,BLE advertisement
+MyTEE: Own the Trusted Execution Environment on Embedded Devices,NDSS,2023,tracking device
+You Can Rand but You Can’t Hide: A Holistic Security Analysis of Google Fuchsia’s (and gVisor’s) Network Stack,NDSS,2025,tracking device
+Preventing Lunchtime Attacks: Fighting Insider Threats With Eye Movement Biometrics ,NDSS,2015,tracking device
+FBS-Radar: Uncovering Fake Base Stations at Scale in the Wild,NDSS,2017,crowdsouced netwoks
+SemperFi: Anti-spoofing GPS Receiver for UAVs ,NDSS,2022,crowdsouced netwoks
+Trust the Crowd: Wireless Witnessing to Detect Attacks on ADS-B-Based Air-Traffic Surveillance ,NDSS,2021,crowdsouced netwoks
+Updatable Privacy-Preserving Blueprints,ePrint,2023,location tracking
+Empirical analysis and modeling of Bluetooth low-energy (BLE) advertisement channels,misc,2018,BLE advertisement
+A Study on Construction of Ad-Hoc Network with BLE Advertisement,misc,2019,BLE advertisement
+Be aware of the capture effect: a measure of its contribution to BLE advertisements reception,misc,2021,BLE advertisement
+Variability of BLE Advertisement Packets Received Signal Strength and Delivery Probability in the Presence of Interferences,misc,2022,BLE advertisement
+BLEWhisperer: Exploiting BLE Advertisements for Data Exfiltration,misc,2022,BLE advertisement
+IPv6 over Bluetooth Advertisements,misc,2023,BLE advertisement
+Quick Response Code Attendance System with SMS Location Tracker,misc,2020,Location Tracker
+"TagAlong: A Free, Wide-Area Data-Muling Service Built on the AirTag Protocol",misc,2022,AirTag
+AirTag of the Clones: Shenanigans with Liberated Item Finders,misc,2022,AirTag
+Where Is My Tag? Unveiling Alternative Uses of the Apple FindMy Service,misc,2022,FindMy
+Poster: Leveraging Apple's Find My Network for Large-Scale Distributed Sensing,misc,2024,FindMy
+Find My Car: Simple RSS-based UWB Localization Algorithms for Single and Multiple Transmitters,misc,2020,FindMy
+Find My IoT Device – An Efficient and Effective Approximate Matching Algorithm to Identify IoT Traffic Flows,misc,2022,FindMy
+SmartTags: bridging applications and network for proactive performance management,misc,2022,smartTag
+Can’t Keep Them Away: The Failures of Anti-stalking Protocols in Personal Item Tracking Devices,misc,2023,anti-stalking
+HomeScout: Anti-Stalking Mobile App for Bluetooth Low Energy Devices,misc,2023,anti-stalking
+Stop Following Me! Evaluating the Malicious Uses of Personal Item Tracking Devices and Their Anti-Stalking Features,misc,2024,anti-stalking
+On Design and Performance of Offline Finding Network,misc,2023,offline finding
+Find My IoT Device – An Efficient and Effective Approximate Matching Algorithm to Identify IoT Traffic Flows,misc,2014,Tile tracker
+"Current Research, Challenges, and Future Directions in Stalkerware Detection Techniques for Mobile Ecosystems",misc,2021,stalkerware
+Data Collection and Hiding Capabilities of Android Stalkerware,misc,2023,stalkerware
+No Place to Hide: Privacy Exposure in Anti-stalkerware Apps and Support Websites,misc,2023,stalkerware
+"Current Research, Challenges, and Future Directions in Stalkerware Detection Techniques for Mobile Ecosystems",misc,2025,stalkerware
+BLE-Doubt: Smartphone-Based Detection of Malicious Bluetooth Trackers,misc,2022,bluetooth tracking
+BL(u)E CRAB: A User-Centric Framework for Identifying Suspicious Bluetooth Trackers,misc,2025,bluetooth tracking
+Bluetooth Tracking Approach for User Assistance Based in Sequential Patterns Analysis,misc,2019,bluetooth tracking
+PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop,misc,2022,BLE advertisement
+GateHaul: A Gateway Architecture using Backhauling Networks to Address the Connectivity Challenges of Embedded Systems,misc,2024,FindMy
+"I Tag, You Tag, Everybody Tags!",misc,2023,airTag
+DeTagTive: Linking MACs to Protect Against Malicious BLE Trackers,misc,2023,airTag
+Mind the GAP: Security & Privacy Risks of Contact Tracing Apps,misc,2021,BLE advertisement
+Towards Stalkerware Detection with Precise Warnings,misc,2021,stalkerware
+Community-Sourced Bluetooth Low Energy Device Fingerprinting Based on Link Layer Packets,misc,2024,airTag
+AoT - Attack on Things: A security analysis of IoT firmware updates,misc,2023,airTag
+"A Tale of Three Location Trackers: AirTag, SmartTag, and Tile",misc,2025,airTag
+Securing the Invisible Thread: A Comprehensive Analysis of BLE Tracker Security in Apple AirTags and Samsung SmartTags,misc,2024,airTag
+Can’t Keep Them Away: The Failures of Anti-stalking Protocols in Personal Item Tracking Devices,misc,2023,anti-stalking
+"AirTag, You're It: Reverse Logistics and Last Mile Dynamics",misc,2025,airTag

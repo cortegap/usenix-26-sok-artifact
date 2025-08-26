@@ -1,0 +1,48 @@
+Paper,Conference,Year
+DULT proposal,Industry spec,2025
+Abuse-Resistant Location Tracking: Balancing Privacy and Safety in the Offline Finding Ecosystem,USENIX,2024
+Track You: A Deep Dive into Safety Alerts for Apple AirTags,PETS,2023
+Who Can Find My Devices? Security and Privacy of Apple’s Crowd-Sourced Bluetooth Location Tracking System,PETS,2021
+Blind My — An Improved Cryptographic Protocol to Prevent Stalking in Apple’s Find My Network,PETS,2023
+Analysis of Samsung’s crowd-sourced location tracking,USENIX,2024
+Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges,USENIX,2025
+AirTag of the Clones: Shenanigans with Liberated Item Finders ,SPW,2023
+OpenHaystack: A Framework for Tracking Personal Bluetooth Devices via Apple’s Massive Find My Network,WiSec,2021
+AirGuard  - Protecting Android Users From Stalking Attacks By Apple Find My Devices,WiSec,2022
+"DeTagTive: Linking MACs to Protect Against Malicious BLE
+Trackers",SNIP2+,2023
+Who tracks the trackers? circumventing apple’s anti-tracking alerts in the find my network,WPES,2021
+Apple's old spec*,Industry spec,2020
+Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs,IEEE S&P ,2025
+Please Unstalk Me: Understanding Stalking with Bluetooth Trackers and Democratizing Anti-Stalking Protection,PETS,2024
+"I Tag, You Tag, Everybody Tags!",IMC,2023
+AirTag-Facilitated Stalking Protection: Evaluating Unwanted Tracking Notifications and Tracker Locating Features,USENIX,2025
+Stop Following Me! Evaluating the Malicious Uses of Personal Item Tracking Devices and Their Anti-Stalking Features,EuroUSEC,2024
+Poster: Will our Colleagues Detect the AirTag? Let’s Check (Consensually),SOUPS,2024
+Linking Bluetooth LE & Classic and Implications for Privacy-Preserving Bluetooth-Based Protocols,IEEE S&P ,2021
+Securing the Invisible Thread: A Comprehensive Analysis of BLE Tracker Security in Apple AirTags and Samsung SmartTags,N/A,2024
+Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices,IEEE S&P ,2022
+Automatic Fingerprinting of Vulnerable BLE IoT Devices with Static UUIDs from Mobile Apps,CCS,2019
+Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations,USENIX,2024
+Eddystone-EID: Secure and Private Infrastructural Protocol for BLE Beacons,IEEE TIFS,2022
+Extended Diffie-Hellman Encryption for Secure and Efficient Real-Time Beacon Notifications,IEEE S&P ,2025
+Sneaky Spy Devices and Defective Detectors: The Ecosystem of Intimate Partner Surveillance with Covert Devices ,USENIX,2023
+The Battery Insertion Attack: Is Periodic Pseudo-randomization Sufficient for Beacon Privacy?,PETS,2025
+HomeScout: Anti-Stalking Mobile App for Bluetooth Low Energy Devices,IEEE LCN,2023
+A Thorough Security Analysis of BLE Proximity Tracking Protocols,USENIX,2025
+"AirTag, You're It: Reverse Logistics and Last Mile Dynamics",N/A,2025
+Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation,NDSS,2025
+Apple's AirTag: A Security Vulnerability Discussion and Guide to Personal Safety,ASEE Midwest Section Conference,2024
+When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure,CCS,2022
+"TagAlong: Free, Wide-Area Data-Muling and Services",ACM HotMobile,2023
+Nebula: A Privacy-First Platform for Data Backhaul,IEEE S&P ,2024
+OpenHaystack Mobile - Tracking Custom Find My Accessories on Smartphones,WiSec,2022
+Poster: Leveraging Apple's Find My Network for Large-Scale Distributed Sensing,ACM MOBISYS,2024
+"A Tale of Three Location Trackers: AirTag, SmartTag, and Tile",N/A,2025
+"""It's the Equivalent of Feeling Like You're in Jail”: Lessons from Firsthand and Secondhand Accounts of IoT-Enabled Intimate Partner Abuse",USENIX,2023
+Find My *: Implications of iOS and Android Bluetooth based accessory detection on global privacy,N/A,2022
+"Privacy-Enhancing Technologies Against Physical-Layer and Link-Layer Device Tracking: Trends, Challenges, and Future Directions",NDSS workshop,2025
+Lost and found: stopping bluetooth finders from leaking private information,WiSec,2020
+Where Is My Tag? Unveiling Alternative Uses of the Apple FindMy Service,IEEE WoWMoM,2022
+Toward a secure crowdsourced location tracking system,WiSec,2021
+Can’t Keep Them Away: The Failures of Anti-stalking Protocols in Personal Item Tracking Devices,Cambridge International Workshop on Security Protocols,2023
