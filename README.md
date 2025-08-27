@@ -1,6 +1,6 @@
-### SoK: Offline finding systems - Artifact 
+### SoK: Offline Finding Protocols for Lightweight Location Tracking - Artifact 
 
-This repository contains the corpus of papers used for the paper "SoK: Offline finding systems", under submission for USENIX Security 2026, cycle 1.
+This repository contains the corpus of papers used for the paper "SoK: Offline Finding Protocols for Lightweight Location Tracking", under submission for USENIX Security 2026, cycle 1.
 To assemble the corpus, the authors followed two methods, which lead to two separate corpuses, and then combined them. The full methodology is available
 in Appendix A.
 
