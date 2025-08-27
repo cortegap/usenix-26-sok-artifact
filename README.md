@@ -1,9 +1,11 @@
 ### SoK: Offline finding systems - Artifact 
 
 This repository contains the corpus of papers used for the paper "SoK: Offline finding systems", under submission for USENIX Security 2026, cycle 1.
+To assemble the corpus, the authors followed two methods, which lead to two separate corpuses, and then combined them. The full methodology is available
+in Appendix A.
 
 The files contain the following information:
-* TODO
-* A
-* B
-* C
+* `method1-snowball.csv` -- contains the initial corpus of papers gathered from method 1.
+* `method2-keywords.csv` -- contains the initial corpus of papers gathered from method 2.
+* `keywords.csv` -- contains the keywords used during method 2. 
+* `final-corpus.csv` -- contains the final corpus of papers used in the SoK, along with their categorizations.
